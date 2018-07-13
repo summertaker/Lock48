@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#D81B60</color>
+    <color name="colorPrimaryDark">#880E4F</color>
+    <color name="colorAccent">#FF80AB</color>
+
+    <!-- Card -->
+    <color name="card_background">#e1e1e1</color>
+    <color name="card_normal_background">#00000000</color>
+    <color name="card_normal_border">#00000000</color>
+    <color name="card_focused_backtround">#88f48fb1</color>
+    <color name="card_focused_border">#66f06292</color>
+    <color name="card_pressed_background">#88f48fb1</color>
+    <color name="card_pressed_border">#66f06292</color>
+    <color name="card_caption_background">#66000000</color>
+    <color name="card_caption_background_selected">#aaD81B60</color>
+
+    <!-- Selector -->
+    <color name="selector_normal">#ffffff</color>
+    <color name="selector_pressed">#44e91e63</color>
+    <color name="selector_selected">#44e91e63</color>
+    <color name="selector_focused">#44e91e63</color>
+    <color name="selector_card_background">#ffffffff</color>
+    <color name="selector_card_normal_background">#00000000</color>
+    <color name="selector_card_normal_border">#00000000</color>
+    <color name="selector_card_focused_backtround">#88f48fb1</color>
+    <color name="selector_card_focused_border">#66f06292</color>
+    <color name="selector_card_pressed_background">#88f48fb1</color>
+    <color name="selector_card_pressed_border">#66f06292</color>
+</resources>

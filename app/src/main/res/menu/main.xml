@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_add"
+        android:icon="@drawable/baseline_add_white_24"
+        android:orderInCategory="100"
+        android:name="@string/action_add"
+        android:title="@string/action_add"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_edit"
+        android:icon="@drawable/baseline_edit_white_24"
+        android:orderInCategory="100"
+        android:name="@string/action_edit"
+        android:title="@string/action_edit"
+        app:showAsAction="ifRoom" />
+</menu>
